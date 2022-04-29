@@ -11,5 +11,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="edit_message">输入区域</string>
     <string name="button_send">搜索</string>
+    <string name="button_queue">排队</string>
     <string name="title_activity_reserve_detection">ReserveDetectionActivity</string>
 </resources>
